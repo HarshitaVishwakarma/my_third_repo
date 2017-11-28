@@ -1,0 +1,3 @@
+I am new3.txt, hello
+I am 2nd line, hello 
+:wq!
