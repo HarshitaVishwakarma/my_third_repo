@@ -1,4 +1,2 @@
 I am new3.txt, hello
 I am 2nd line, hello 
-:wq!
-I am adding a change in new3.txt
